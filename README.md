@@ -39,9 +39,10 @@ VigenereCipherProject/
      javac Main.java Cipher/*.java
    ```
   3. Run the program:
-    ```bash
-    java Main
-    ```
+     
+  ```bash
+      java Main
+   ```
 ---
 
 ## 🧑‍💻 Usage
