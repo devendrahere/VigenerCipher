@@ -46,12 +46,14 @@ VigenereCipherProject/
 
 ## 🧑‍💻 Usage
 When you run the program, you’ll see a menu:
+```bash
 Welcome to Modified Vigener Encoder /Decoder
 Choose your Option
 1.Encode
 2.Decode
 3.Exit
 1->Encode        2->Decode        3->Exit
+```
 
 ---
 
